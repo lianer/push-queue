@@ -1,5 +1,7 @@
 # push-queue
 
+将所有异步方法添加到一个队列
+
 ## Usage
 
 ```js
